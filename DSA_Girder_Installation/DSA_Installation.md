@@ -50,6 +50,7 @@ Check and see if docker is running...
 ~~~~
 docker ps
 ~~~~
+![](https://images.techhive.com/images/article/2016/01/windows-8-antivirus-dec.-2015-100639702-orig.png)
 ![](assets\DSA_Installation-7660f704.png)
 ![](assets\DSA_Installation-9bf6e7b7.png)
 
@@ -115,7 +116,7 @@ sudo chown dsaadmin /opt/LOCAL_ASSETSTORE
 ~~~
 
 ## Create a directory for Mongo
-sudo mkdir /opt/MONGO_LOCAL 
+sudo mkdir /opt/MONGO_LOCAL
 sudo chown dsaadmin /opt/MONGO_LOCAL
 
 ## maybe put everythin in DSAData  ???
